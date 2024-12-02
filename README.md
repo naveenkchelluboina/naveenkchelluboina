@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! I'm Naveen Chelluboina
 
-<!--
-**naveenkchelluboina/naveenkchelluboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with 7+ years of experience in full-stack development, specializing in enterprise-scale applications and cloud architecture. Currently working at Capital One Software, bringing innovative SaaS solutions to market.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack developer passionate about creating scalable applications
+- 🌱 Currently working on Slingshot at Capital One Software
+- 🎓 Master's in Computer Science from University of North Texas
+- 📫 How to reach me: [naveenkchelluboina@gmail.com](mailto:naveenkchelluboina@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, Python
+- **Frontend:** React, Angular, Vue.js
+- **Backend:** Spring Boot, Node.js, Express
+- **Cloud:** AWS (Lambda, ECS, CDK)
+- **Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
+- **Tools:** Docker, Kubernetes, Jenkins, Git
+
+## 🔭 Recent Projects
+
+### [InsureFlow](https://github.com/naveenkchelluboina/insureFlow)
+- Insurance management system built with Java
+- Implements modern design patterns and best practices
+
+### [Arli Chat](https://github.com/naveenkchelluboina/arli-chat)
+- Real-time chat application built with TypeScript
+- Frontend implementation with modern UI/UX principles
+
+### [CareBot](https://github.com/naveenkchelluboina/CareBot-chatbot-main)
+- Healthcare chatbot built with Python
+- Implements AI/ML for intelligent responses
+
+## 🌟 Professional Experience
+- **Software Engineer** at Capital One Software (Current)
+- **Software Developer** at Belk INC
+- **Technology Analyst** at Infosys Ltd
+- **Java Developer** at Tech Mahindra
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-chelluboina)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://naveen-chelluboina-portfolio-master.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenkchelluboina)
+
+## 🏆 Achievements
+- Apache Cassandra Developer Certification
+- Arctic Code Vault Contributor
+
+---
+💬 Feel free to reach out for collaborations or just a tech chat!
