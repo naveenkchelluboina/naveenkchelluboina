@@ -13,7 +13,7 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 - **Frontend:** React, Angular, Vue.js, Next.js
 - **Backend:** Spring Boot, Node.js, Express
 - **Cloud:** AWS (Lambda, ECS, CDK)
-- **Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
+- **Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis, Cassandra
 - **Tools:** Docker, Kubernetes, Jenkins, Git
 
 ## 🔭 Recent Projects
@@ -43,8 +43,11 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://naveen-chelluboina-portfolio-master.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenkchelluboina)
 
-## 🏆 Achievements
-- Apache Cassandra Developer Certification
+## 🏆 Certifications & Achievements
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/8c7e50ec-8ae7-4b15-9fdf-6c8c6d3b7ad7/linked_in_profile) (Valid until Dec 2027)
+- Apache Cassandra Developer Certification 
+  - [Verification Portal](https://certification.mettl.com/datastax/applicant/verify-certification)
+  - Verification Email: `naveenkchelluboina@gmail.com`
 - Arctic Code Vault Contributor
 
 ---
