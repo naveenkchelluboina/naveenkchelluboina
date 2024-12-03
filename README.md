@@ -10,7 +10,7 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, TypeScript, Python
-- **Frontend:** React, Angular, Vue.js
+- **Frontend:** React, Angular, Vue.js, Next.js
 - **Backend:** Spring Boot, Node.js, Express
 - **Cloud:** AWS (Lambda, ECS, CDK)
 - **Databases:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
@@ -18,13 +18,15 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 
 ## 🔭 Recent Projects
 
+### [AI Companion](https://chilakhbhaiai.netlify.app/)
+- AI-powered chat companion built with Next.js 13
+- Features real-time conversations and character customization
+- Implements OpenAI integration for intelligent responses
+- Deployed and live on Netlify
+
 ### [InsureFlow](https://github.com/naveenkchelluboina/insureFlow)
 - Insurance management system built with Java
 - Implements modern design patterns and best practices
-
-### [Arli Chat](https://github.com/naveenkchelluboina/arli-chat)
-- Real-time chat application built with TypeScript
-- Frontend implementation with modern UI/UX principles
 
 ### [CareBot](https://github.com/naveenkchelluboina/CareBot-chatbot-main)
 - Healthcare chatbot built with Python
