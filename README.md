@@ -19,7 +19,7 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 ## 🔭 Recent Projects
 
 ### [AI Companion](https://chilakhbhaiai.netlify.app/)
-- AI-powered chat companion built with Next.js 13
+- AI-powered chat companion built with Node JS
 - Features real-time conversations and character customization
 - Implements OpenAI integration for intelligent responses
 - Deployed and live on Netlify
