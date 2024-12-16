@@ -48,6 +48,3 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
   - [Verification Portal](https://certification.mettl.com/datastax/applicant/verify-certification)
   - Verification Email: `naveenkchelluboina@gmail.com`
 - Arctic Code Vault Contributor
-
----
-💬 Feel free to reach out for collaborations or just a tech chat!
