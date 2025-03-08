@@ -6,7 +6,6 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 - 💻 Full-stack developer passionate about creating scalable applications
 - 🌱 Currently working on Slingshot at Capital One Software
 - 🎓 Master's in Computer Science from University of North Texas
-- 📫 How to reach me: [naveenkchelluboina@gmail.com](mailto:naveenkchelluboina@gmail.com)
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, TypeScript, Python
@@ -39,12 +38,11 @@ I'm a Software Engineer with 7+ years of experience in full-stack development, s
 - **Java Developer** at Tech Mahindra
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-chelluboina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navkch/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://naveen-chelluboina-portfolio-master.onrender.com/)
 
 ## 🏆 Certifications & Achievements
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/8c7e50ec-8ae7-4b15-9fdf-6c8c6d3b7ad7/linked_in_profile) (Valid until Dec 2027)
 - Apache Cassandra Developer Certification 
   - [Verification Portal](https://certification.mettl.com/datastax/applicant/verify-certification)
-  - Verification Email: `naveenkchelluboina@gmail.com`
 - Arctic Code Vault Contributor
