@@ -1,4 +1,4 @@
-# Hi there! I'm Naveen Chelluboina
+# Hi there! I'm Naveen Ch
 
 I'm a Software Engineer with 7+ years of experience in full-stack development, specializing in enterprise-scale applications and cloud architecture. Currently working at Capital One Software, bringing innovative SaaS solutions to market.
 
